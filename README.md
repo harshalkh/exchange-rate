@@ -1,5 +1,5 @@
-# exchange-rate
-Application for Exchange Rate
+# exchange-rate-service
+Application providing API's for exchange rate
 
 TODO-
 1. Add global exception handling for readable error response using controller advice
